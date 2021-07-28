@@ -1,0 +1,2 @@
+# xstara
+cross -- stara
